@@ -1,0 +1,24 @@
+*
+ * Problem: Maximum Element in a Stream
+ * Link: 
+ * Difficulty: 
+ *
+ * Approach: HashMap to store seen values and their indices.
+ * Check if complement (target - current) exists in map.
+ * Time Complexity: O(n)
+ * Space Complexity: O(n)
+ */
+
+
+
+
+
+public static List<Integer> streamMax(int[] nums){
+        Heap heap = new Heap();
+        List<Integer> myList = new ArrayList<>();
+        for(int i : nums){
+            heap.insert(i);
+            myList.add(heap.peek());
+        }
+        return myList;
+    }
