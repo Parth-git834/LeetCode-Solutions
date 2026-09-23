@@ -13,6 +13,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parth-git834/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Parth-git834/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0876-middle-of-the-linked-list](https://github.com/Parth-git834/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,4 +22,8 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Parth-git834/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Parth-git834/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
