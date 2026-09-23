@@ -13,6 +13,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parth-git834/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Parth-git834/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0141-linked-list-cycle](https://github.com/Parth-git834/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Parth-git834/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -25,5 +26,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Parth-git834/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Parth-git834/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Parth-git834/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Parth-git834/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
